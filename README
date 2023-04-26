@@ -3,12 +3,13 @@ Device name: Acer Swift 3 SF314-54
 Processor: Intel Core i3-7020U (2.3Ghz)
 iGPU: Intel HD Graphics 620
 dGPU: N/A
-RAM: 4GB DDR4
+RAM: 4GB DDR4 2133 MHz (Upgradable to 8GB or 12GB RAM)
 Storage: WDC Hard Drive 1TB (i no have SSD yet)
 Audio: Realtek ALC256
 Wireless LAN: Intel AC-7265
 OpenCore version: 0.8.1
-Operating System support: Big Sur to Ventura
+Operating System support: Big Sur to Ventura 
+(Tested on macOS Big Sur)
 
 Bugs:
 • Fingerprint
