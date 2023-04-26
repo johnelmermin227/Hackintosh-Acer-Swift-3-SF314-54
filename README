@@ -1,4 +1,4 @@
-Device Specifications
+Device Specifications:
 Device name: Acer Swift 3 SF314-54
 Processor: Intel Core i3-7020U (2.3Ghz)
 iGPU: Intel HD Graphics 620
@@ -7,12 +7,21 @@ RAM: 4GB DDR4 2133 MHz (Upgradable to 8GB or 12GB RAM)
 Storage: WDC Hard Drive 1TB (i no have SSD yet)
 Audio: Realtek ALC256
 Wireless LAN: Intel AC-7265
+Touchpad: ELANTECH Touchpad
+Ethernet: N/A
 OpenCore version: 0.8.1
-Operating System support: Big Sur to Ventura 
-(Tested on macOS Big Sur)
+Operating System support: Big Sur
+
+What's Working:
+• Audio and Headset port
+• Wifi
+• Touchpad
+• USB Ports include USB-C
+• Bluetooth / Bluetooth Audio
 
 Bugs:
 • Fingerprint
 • Internal Mic
 
-Working in Progress for EFI
+
+Working in Progress for EFI and uploading...
